@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="PrefomanceViewer.AllItems.Network"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PrefomanceViewer.AllItems"
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="80" Loaded="UserControl_Loaded" MinHeight="80" MinWidth="80" MaxWidth="80" MaxHeight="80">
+    <Border BorderBrush="Gray" BorderThickness="2" Name="Border">
+        <Grid>
+            <Grid Name="valuepanel">
+                <Label Content="NETWORK" VerticalAlignment="Top" HorizontalAlignment="Center" Name="NameP"/>
+                <Image VerticalAlignment="Center" HorizontalAlignment="Left" Width="20" Name="pictrure1" Stretch="UniformToFill" Height="20" Margin="0,-10,0,0" Source="UpLoadIcon.png" Visibility="Visible"/>
+                <Label Content="0 B" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="15" Name="NetworkSendValue" Margin="0,-7,0,0"/>
+                <Image VerticalAlignment="Center" HorizontalAlignment="Left"  Width="20" Name="pictrure2" Stretch="Fill" Height="20" Margin="0,40,0,0" Source="DownLoadIcon.png" Visibility="Visible"/>
+                <Label Content="0 B" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="15" Name="NetworkRecivedValue" Margin="0,36,0,0"/>
+            </Grid>
+            <Grid Margin="2,20,2,2" Name="informationpanel">
+                <ScrollViewer Name="automaticmargin" VerticalScrollBarVisibility="Hidden">
+                    <TextBlock FontSize="12" TextWrapping="Wrap" Name="processorvaluenpanel"/>
+                </ScrollViewer>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

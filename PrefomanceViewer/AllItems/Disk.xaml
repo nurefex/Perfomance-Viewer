@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="PrefomanceViewer.AllItems.Disk"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PrefomanceViewer.AllItems"
+                          mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="80" IsHitTestVisible="False" Loaded="UserControl_Loaded" MinHeight="80" MinWidth="80" MaxWidth="80" MaxHeight="80">
+    <Border BorderBrush="Gray" BorderThickness="2" Name="Border" IsHitTestVisible="False">
+        <Grid IsHitTestVisible="False">
+            <Label Content="DISK" VerticalAlignment="Top" HorizontalAlignment="Center" Name="NameP" IsHitTestVisible="False"/>
+            <Label Content="Write:" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="10" Name="DiskWriteName" IsHitTestVisible="False" Margin="0,-10,0,0"/>
+            <Label Content="0B" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="10" Name="DiskWriteValue" IsHitTestVisible="False" Margin="0,-10,0,0"/>
+            <Label Content="Read:" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="10" Name="DiskReadName" IsHitTestVisible="False" Margin="0,20,0,0"/>
+            <Label Content="0B" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="10" Name="DiskReadValue" IsHitTestVisible="False" Margin="0,20,0,0"/>
+            <Label VerticalAlignment="Bottom" HorizontalAlignment="Right" Name="Temperature"/>
+        </Grid>
+    </Border>
+</UserControl>
+

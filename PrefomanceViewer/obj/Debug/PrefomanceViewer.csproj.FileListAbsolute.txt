@@ -1,0 +1,159 @@
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe.config
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.pdb
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csprojAssemblyReference.cache
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\App.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.cache
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.lref
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.g.resources
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.Properties.Resources.resources
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.GenerateResource.cache
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.exe
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.pdb
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csprojAssemblyReference.cache
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.g.cs
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\App.g.cs
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.cache
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.lref
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.exe
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.pdb
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe.config
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.pdb
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.baml
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.g.resources
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.Properties.Resources.resources
+G:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.GenerateResource.cache
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe.config
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.pdb
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csprojAssemblyReference.cache
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.g.cs
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\App.g.cs
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.cache
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.lref
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.baml
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.g.resources
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.Properties.Resources.resources
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.GenerateResource.cache
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.exe
+F:\Programjaim\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.pdb
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe.config
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.pdb
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.g.cs
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\App.g.cs
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.cache
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.lref
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.baml
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.g.resources
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.Properties.Resources.resources
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.GenerateResource.cache
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.exe
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.pdb
+C:\Users\husza\Desktop\projekt\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csprojAssemblyReference.cache
+E:\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe.config
+E:\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe
+E:\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.pdb
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csprojAssemblyReference.cache
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.g.cs
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\App.g.cs
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.cache
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.lref
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.baml
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.g.resources
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.Properties.Resources.resources
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.GenerateResource.cache
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.exe
+E:\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.pdb
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingWindow.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingWindow.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Processor.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Processor.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Memory.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Memory.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Network.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Network.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Battery.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Battery.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.CopyComplete
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe.config
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.pdb
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csprojAssemblyReference.cache
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Battery.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Memory.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Network.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Processor.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingWindow.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\App.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.cache
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.lref
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Battery.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Memory.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Network.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Processor.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingWindow.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.g.resources
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.Properties.Resources.resources
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.GenerateResource.cache
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.CopyComplete
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.exe
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.pdb
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\NetworkInformation.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\NetworkInformation.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\NetworkInformation.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\NetworkInformation.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Time.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Time.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Time.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Time.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Drive.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Drive.baml
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingPanel.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zsitv\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingPanel.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Drive.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingPanel.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Drive.baml
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingPanel.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe.config
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.exe
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\bin\Debug\PrefomanceViewer.pdb
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csprojAssemblyReference.cache
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Battery.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Drive.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Memory.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Network.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\NetworkInformation.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Processor.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingPanel.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Time.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingWindow.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\App.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.cache
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer_MarkupCompile.lref
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Battery.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Drive.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Memory.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Network.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\NetworkInformation.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Processor.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingPanel.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\AllItems\Time.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\MainWindow.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\SettingWindow.baml
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.g.resources
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.Properties.Resources.resources
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.GenerateResource.cache
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.CopyComplete
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.exe
+C:\Users\2015C_Zsitva_Mi\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.pdb
+C:\Users\Zsitva Miklós\Desktop\PrefomanceViewer\PrefomanceViewer\obj\Debug\PrefomanceViewer.csproj.CoreCompileInputs.cache

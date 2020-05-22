@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="PrefomanceViewer.SettingPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PrefomanceViewer.AllItems"
+             mc:Ignorable="d">
+    <WrapPanel VerticalAlignment="Top" HorizontalAlignment="Left" Orientation="Vertical" Loaded="WrapPanel_Loaded">
+        <Label Content="Color" Name="ColorTitle" FontSize="30"/>
+        <WrapPanel Orientation="Vertical">
+            <RadioButton Content="Light" Name="LightRadioButton" Checked="LightRadioButton_Checked"/>
+            <RadioButton Content="Dark" Name="DarkRadioButton" Checked="DarkRadioButton_Checked"/>
+        </WrapPanel>
+        <Label Content="Animated" Name="AnimatedTitle" FontSize="30"/>
+        <WrapPanel Orientation="Vertical">
+            <RadioButton Content="Yes" Name="YesAnimated" Checked="YesAnimated_Checked"/>
+            <RadioButton Content="No" Name="NoAnimated" Checked="NoAnimated_Checked"/>
+        </WrapPanel>
+    <Label Content="Window Location" Name="WindowLocationTitle" FontSize="30"/>
+        <WrapPanel Orientation="Vertical">
+            <RadioButton Content="Manual" Name="WindowManual" Checked="WindowManual_Checked"/>
+            <RadioButton Content="Follows the Mouse" Name="followsthemouse" Checked="followsthemouse_Checked"/>
+            <RadioButton Content="Follows the Window Focus" Name="followsthewindowfocus" Checked="followsthewindowfocus_Checked"/>
+        </WrapPanel>
+        <Label Content="Lock Window" Name="WindowLockTitle" FontSize="30"/>
+        <WrapPanel Orientation="Vertical">
+            <RadioButton Content="Yes" Name="YesWindowLock" Checked="YesWindowLock_Checked"/>
+            <RadioButton Content="No" Name="NoWindowLock" Checked="NoWindowLock_Checked"/>
+        </WrapPanel>
+    </WrapPanel>
+</UserControl>

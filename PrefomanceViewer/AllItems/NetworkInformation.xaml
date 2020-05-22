@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="PrefomanceViewer.AllItems.NetworkInformation"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PrefomanceViewer.AllItems"
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="158" IsHitTestVisible="False" Loaded="UserControl_Loaded" MinHeight="80" MinWidth="158" MaxWidth="158" MaxHeight="80">
+    <Border BorderBrush="Gray" BorderThickness="2" Name="Border" IsHitTestVisible="False">
+        <Grid IsHitTestVisible="False">
+            <Label Content="NETWORK INFORMATION" VerticalAlignment="Top" HorizontalAlignment="Center" Name="NameP" IsHitTestVisible="False" Margin="-3,0,0,0"/>
+            <Label Content="Local IP:" Margin="0,15,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="11" Name="IpAddressLabel"/>
+            <Label Margin="0,15,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="11" Name="IpAddress"/>
+            <Label Content="DNS:" Margin="0,28,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="11" Name="DNSIPLabel"/>
+            <Label Margin="0,28,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="11" Name="DNSIP"/>
+            <Label Content="Default gateway:" Margin="0,41,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="10" Name="DGLabel"/>
+            <Label Margin="0,41,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="11" Name="DG"/>
+            <Label Content="External IP:" Margin="0,53,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="11" Name="GlobalIpLabel"/>
+            <Label Margin="0,53,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="11" Name="GlobalIp"/>
+            <Label Content="No connected Network" VerticalAlignment="Center" Foreground="Red" HorizontalAlignment="Center" FontSize="14" Visibility="Collapsed" Name="error"/>
+        </Grid>
+    </Border>
+</UserControl>

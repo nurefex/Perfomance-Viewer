@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="PrefomanceViewer.AllItems.Processor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PrefomanceViewer.AllItems"
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="80" IsHitTestVisible="False" Loaded="UserControl_Loaded" MinHeight="80" MinWidth="80" MaxWidth="80" MaxHeight="80">
+    <Border BorderBrush="Gray" BorderThickness="2" Name="Border" IsHitTestVisible="False">
+        <Grid>
+            <Label Content="PROCESSOR" VerticalAlignment="Top" HorizontalAlignment="Center" Name="NameP" IsHitTestVisible="False"/>
+            <Grid Margin="0,20,0,0" Visibility="Visible" Name="processorvaluepanel">
+                <Label Content="100%" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="27" Name="Percent"/>
+                <Label VerticalAlignment="Bottom" HorizontalAlignment="Right" Name="Temperature" Margin="0,0,0,-6" FontSize="13"/>
+            </Grid>
+            <Grid Margin="2,20,2,2" Name="processorinformationpanel">
+                <ScrollViewer Name="automaticmargin" VerticalScrollBarVisibility="Hidden">
+                    <TextBlock FontSize="12" TextWrapping="Wrap" Name="processorvaluenpanel"/>
+                </ScrollViewer>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

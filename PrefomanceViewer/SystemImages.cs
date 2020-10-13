@@ -7,7 +7,6 @@ static class SystemImages
     public static BitmapImage BatteryWhite;
     public static BitmapImage ChargeBlack;
     public static BitmapImage ChargeWhite;
-
     public static void LoadAllSystemImages()
     {
         BatteryBlack = new BitmapImage();

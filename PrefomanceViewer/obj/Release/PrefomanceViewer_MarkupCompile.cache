@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Gits\nurefexc\Perfomance-Viewer\PrefomanceViewer\obj\Debug\
+C:\Gits\nurefexc-projects\performance-viewer\PrefomanceViewer\obj\Release\
 PrefomanceViewer
 none
 false
-DEBUG;TRACE
-C:\Gits\nurefexc\Perfomance-Viewer\PrefomanceViewer\App.xaml
+TRACE
+C:\Gits\nurefexc-projects\performance-viewer\PrefomanceViewer\App.xaml
 10-1181547916
 
-18-2106151148
-19-640687088
+17-1351581364
+18795593872
 AllItems\Battery.xaml;AllItems\Drive.xaml;AllItems\Memory.xaml;AllItems\Network.xaml;AllItems\NetworkInformation.xaml;AllItems\Processor.xaml;SettingPanel.xaml;AllItems\Time.xaml;MainWindow.xaml;SettingWindow.xaml;
 
 True

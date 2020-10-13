@@ -113,7 +113,7 @@ namespace PrefomanceViewer
                 KeyHelper.Interval = new TimeSpan(0, 0, 0, 0, 100);
                 KeyHelper.Tick += (sender2, args) =>
                 {
-                    if (System.Windows.Input.Keyboard.Modifiers == ModifierKeys.Alt && System.Windows.Input.Keyboard.IsKeyDown(Key.H))
+                    if (Keyboard.Modifiers == ModifierKeys.Alt && System.Windows.Input.Keyboard.IsKeyDown(Key.H))
                     {
                         if (show == true)
                         {
@@ -136,7 +136,7 @@ namespace PrefomanceViewer
                 OpenTheWindow.Interval = new TimeSpan(0, 0, 0, 0, 900);
                 OpenTheWindow.Tick += (sender2, args2) =>
                 {
-                    if (System.Diagnostics.Process.GetProcessesByName(System.IO.Path.GetFileNameWithoutExtension(System.Reflection.Assembly.GetEntryAssembly().Location)).Count() > 1)
+                    if (Process.GetProcessesByName(System.IO.Path.GetFileNameWithoutExtension(System.Reflection.Assembly.GetEntryAssembly().Location)).Count() > 1)
                     {
                         OpenSetting();
                     }
